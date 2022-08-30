@@ -1,5 +1,6 @@
 # Recommendation Attack Survey
 Survey on the recommendation attack topic, continuing to update.
+
 [1] (Federated RecSys上的Model Poisoning Attack)Zhang, Shijie, et al. "Pipattack: Poisoning federated recommender systems for manipulating item promotion." *Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining*. 2022.
 
 论文链接：https://arxiv.org/pdf/2110.10926.pdf
