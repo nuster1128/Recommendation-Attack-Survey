@@ -25,3 +25,15 @@ Survey on the recommendation attack topic, continuing to update.
 
 [论文链接](https://arxiv.org/pdf/2202.04975.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/560106027)
 
+[7] Zhang, Xudong, et al. "**Targeted Data Poisoning Attack on News Recommendation System.**" *arXiv preprint arXiv:2203.03560* (2022). **(基于Reinforcement Learning对New RecSys进行Data Poisoning Attack)**
+
+[论文链接](https://arxiv.org/pdf/2203.03560.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/560868151)
+
+[8] Song, Junshuai, et al. "**Poisonrec: an adaptive data poisoning framework for attacking black-box recommender systems.**" *2020 IEEE 36th International Conference on Data Engineering (ICDE)*. IEEE, 2020. **(基于Reinforcement Learning对RecSys进行Data Poisoning Attack)**
+
+[论文链接](https://ieeexplore.ieee.org/abstract/document/9101655) | [论文解读](https://zhuanlan.zhihu.com/p/560876486)
+
+[9] Li, Bo, et al. "**Data poisoning attacks on factorization-based collaborative filtering.**" *Advances in neural information processing systems* 29 (2016). **(基于最优化方法对RecSys进行Data Poisoning Attack)**
+
+[论文链接](https://proceedings.neurips.cc/paper/2016/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/560881657)
+
