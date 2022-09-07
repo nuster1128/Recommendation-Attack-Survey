@@ -37,3 +37,16 @@ Survey on the recommendation attack topic, continuing to update.
 
 [论文链接](https://proceedings.neurips.cc/paper/2016/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/560881657)
 
+[10] Fan, Wenqi, et al. "**Attacking black-box recommendations via copying cross-domain user profiles.**" *2021 IEEE 37th International Conference on Data Engineering (ICDE)*. IEEE, 2021. **(基于Reinforcement Learning在Cross-domain上进行Data Poisoning Attack)**
+
+[论文链接](https://arxiv.org/pdf/2005.08147.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/562162459)
+
+[11] Liu, Zhuoran, and Martha Larson. "**Adversarial item promotion: Vulnerabilities at the core of top-n recommenders that use images to address cold start.**" *Proceedings of the Web Conference 2021*. 2021. **(对Visually-aware RecSys进行Attack)**
+
+[论文链接](https://dl.acm.org/doi/pdf/10.1145/3442381.3449891) | [论文解读](https://zhuanlan.zhihu.com/p/562198939)
+
+[12] Wu, Chenwang, et al. "**Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training.**" *Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval*. 2021. **(通过生成并注入Fake User以提高RecSys Robustness)**
+
+[论文链接](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2021/Chenwang-Wu-SIGIR.pdf) | [论文解读](https://zhuanlan.zhihu.com/p/562288424)
+
+
